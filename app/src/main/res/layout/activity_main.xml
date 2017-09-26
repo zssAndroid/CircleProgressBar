@@ -29,7 +29,7 @@
         app:ringColor="#6666FF"
         app:strokeWidth="4dp"
         app:radius="50dp"
-        app:textColor="#000000"/>
+        app:textColor="#ff66ff"/>
 
     <com.sen.circleprogressbar.CircleProgressBar
         android:id="@+id/cp3"
