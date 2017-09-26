@@ -3,3 +3,5 @@
 #
 ![image](https://github.com/zssAndroid/CircleProgressBar/raw/master/Screenshot_1506395063.png)
 
+##
+![image](https://github.com/zssAndroid/CircleProgressBar/raw/master/Screenshot_1506395275.png)
